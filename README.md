@@ -7,6 +7,8 @@ Built around one TikTok account with roughly 530k followers and twelve months
 of data, but the loader layer is deliberately separated so other platforms can
 be added without touching the metrics.
 
+![Report output](docs/report.png)
+
 ## Status
 
 Work in progress.
